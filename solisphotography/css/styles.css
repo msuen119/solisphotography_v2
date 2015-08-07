@@ -1,0 +1,257 @@
+.logo {
+    background-color: #13181E;
+    height: 100%;
+}
+
+.navbar {
+    background-color:#333333;
+    vertical-align: middle;
+    padding: 8px;
+    text-align:left;
+}
+.navbar ul {
+    margin-top: 0;
+    margin-bottom:0;
+}
+.navbar ul li {
+    display: inline;
+    list-style: none;
+    text-align: center;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.navbar ul li a {
+    border-bottom: none;
+    text-decoration: none;
+    font-family: "Trajan Pro";
+    font-size:12px;
+    text-align:center;
+}
+.navbar ul li a:link{
+    color:#FFFFFF;
+}
+.navbar ul li a:link:hover, .navbar ul li a:visited:hover {
+    color:#ECD00D
+}
+.navbar ul li a:visited {
+    color:#FFFFFF;
+}
+.navbar ul li a.current {
+    color:#83A7CF
+}
+
+.style1 {
+    font-family: "Trajan Pro", times;
+    font-size: 18px;
+    color: #E1E2E3;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:30px;
+    padding-bottom:50px;
+}
+.style2 {
+    color: #96AEBC;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    padding-left:35px;
+    padding-right:35px;
+}
+.cheading {
+    color: #96AEBC;
+    font-family: Papyrus, Georgia;
+    font-size: 16px;
+}
+.trajan {
+    font-family:"trajan pro", arial;
+    font-size:14px;
+    color:#FFFFFF;
+}
+.tekton {
+    font-family: "tekton pro", verdana;
+    font-size:16px;
+    color:#FFFFFF;
+}
+.aboutus {
+    font-family:"trajan pro", times;
+    font-size:14px;
+    color:#DFC92F;
+    padding-left:15px;
+    padding-right:30px;
+    text-align:justify;
+}
+
+.papyrus {
+    font-family: Papyrus, georgia;
+    color:#FFFFFF;
+    font-size:16px;
+}
+
+.Boxes {
+    height: 555px;
+    vertical-align: top;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    background-color: #000000;
+}
+
+
+.Box1, Box2, Box3 {
+    background-color: #666666;
+    height: 100px;
+    width: 400px;
+    padding: 20px;
+    color: #FFFFFF;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 11px;
+}
+.content {
+    padding-top: 0px;
+    width: 900px;
+}
+
+.header {
+    background-color: #4B070D;
+    height: 75px;
+}
+
+.album {
+    font-family: "Trajan Pro";
+    font-size: 14px;
+    color: #CC9900;
+}
+
+.album:hover {
+    color:#99B8D7;
+}
+body {
+    background-color: #000000;
+}
+
+.message {
+    color:#FFFFFF;
+    font-family:times;
+    font-size:14px;
+}
+.desc {
+    font-family: "Trajan Pro";
+    font-size: 14px;
+    color: #DFC115;
+    text-align: justify;
+    padding: 30px;
+}
+.email {
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+a.email {
+    color:#FFFFFF;
+    border-bottom: none;
+    text-decoration:none;
+}
+a.email:hover, a.email:visited:hover {
+    color:#ECD00D
+}
+a.pic {
+    color:#FFFFFF;
+}
+a.pic:link {
+    color:#FFFFFF;
+}
+a.pic:hover {
+    color:#F8E607;
+}
+.comments {
+    text-align: center;
+    padding-top: 20px;
+    height: 550px;
+}
+.posted {
+
+    background-color:#373737;
+    width: 600px;
+    height: 250px;
+    color:#ECDC13;
+    font-family:Arial;
+    font-size:14px;
+    border-top:double;
+    border-left:double;
+    border-right:double;
+    margin-bottom:0;
+    border-color:#FFFFFF;
+}
+.posted th, .feedback th {
+    color: #96AEBC;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    height:20px;
+}
+.posted tr, .posted td{
+    vertical-align:top;
+    padding:10px;
+}
+.feedback {
+    margin-top:0;
+    background-color:#373737;
+    width: 600px;
+    border-top:double;
+    border-bottom:double;
+    border-left:double;
+    border-right:double;
+    border-color:#FFFFFF;
+}
+.equipment {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #6582F5;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+.lens {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #6582F5;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-right: 0px;
+}
+.cover {
+    padding-top:0px;
+}
+.orders {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color:#FFFFFF;
+}
+.quantity {
+    width:15px;
+}
+.shop {
+    padding-right: 50px;
+    padding-top:40px;
+    padding-bottom:10px;
+}
+.img {
+    border-width:5px;
+    border-style:outset;
+    border-color:#7D8E9D
+}
+.flash {
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 0px;
+
+}.albumlink {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #CC9900;
+}
+.albumlink:hover {
+    color:#99B8D7;
+}

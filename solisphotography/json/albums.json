@@ -1,0 +1,391 @@
+{
+  "gallery": {
+    "albums": [
+      {
+        "year": "2006 and Older",
+        "id": "six",
+        "album": [
+          {
+            "title": "Napa Wine Tasting Thanksgiving '06",
+            "html": "Napa/Wine-H/index.html",
+            "flash": "Napa/Wine-S/index.html"
+          },
+          {
+            "title": "Hawaii Honeymoon '06",
+            "html": "Hawaii2006/Hawaii-H/index.html",
+            "flash": "Hawaii2006/Hawaii-H/index.html"
+          },
+          {
+            "title": "Christmas in New York '05",
+            "html": "NewYork2005/NY-H/index.html",
+            "flash": "NewYork2005/NY-S/index.html"
+          },
+          {
+            "title": "Australia '05'",
+            "html": "Australia2005/Australia-H/index.html",
+            "flash": "Australia2005/Australia-S/index.html"
+          },
+          {
+            "title": "Yosemite '05",
+            "html": "yose2005/Yose-H/index.html",
+            "flash": "yose2005/Yose-S/index.html"
+          },
+          {
+            "title": "Nicaragua '04",
+            "html": "Nicaragua2004/Nic-H/index.html",
+            "flash": "Nicaragua2004/Nic-S/index.html"
+          },
+          {
+            "title": "Aruba '04",
+            "html": "aruba2004/Aruba-H/index.html",
+            "flash": "aruba2004/Aruba-S/index.html"
+          },
+          {
+            "title": "New Orleans '04'",
+            "html": "NewOrleans2004/NewOrleans-H/index.html",
+            "flash": "NewOrleans2004/NewOrleans-S/index.html"
+          },
+          {
+            "title": "Santa Barbara '04'",
+            "html": "SB2004/SB-H/index.html",
+            "flash": "SB2004/SB-S/index.html"
+          },
+          {
+            "title": "Yosemite '03'",
+            "html": "yose2003/Yosemite-H/index.html",
+            "flash": "yose2003/Yosemite-S/index.html"
+          }
+        ]
+      },
+      {
+        "year": "2007",
+        "id": "seven",
+        "album": [
+          {
+            "title": "China / Hong Kong",
+            "html": "china2007/China-H/index.html",
+            "flash": "china2007/China-S/index.html"
+          },
+          {
+            "title": "Chinese New Year",
+            "html": "CNY2007/CNY-H/index.html",
+            "flash": "CNY2007/CNY-S/index.html"
+          },
+          {
+            "title": "Livermore Wineries",
+            "html": "Livermore/Wine-H/index.html",
+            "flash": "Livermore/Wine-S/index.html"
+          },
+          {
+            "title": "Cuesta Tennis",
+            "albumpage": "yes",
+            "html": "Tennis/index.html"
+          },
+          {
+            "title": "Yosemite Memorial Weekend",
+            "albumpage": "yes",
+            "html": "yose2007/index.html"
+          },
+          {
+            "title": "Yvonne's Graduation",
+            "thumbnail": "graduate/yvonne.jpg",
+            "html": "graduate/grad-H/index.html",
+            "flash" : "graduate/grad-S/index.html"
+          },
+          {
+            "title": "Santa Barbara Wine Tasting",
+            "html": "sb2007/SB-H/index.html",
+            "flash": "sb2007/SB-S/index.html"
+          },
+          {
+            "title": "Jeff and Louisa's Wedding",
+            "thumbnail" : "JLWedding/JL-H/content/bin/images/large/IMG_0225.jpg",
+            "html": "JLWedding/JL-H/index.html",
+            "flash": "JLWedding/JL-S/index.html"
+          },
+          {
+            "title": "San Francisco 49ers",
+            "albumpage": "yes",
+            "html": "niners/index.html"
+          },
+          {
+            "title": "Salinas Airshow (Blue Angels)",
+            "html": "Airshow2007/airshow-H/index.html",
+            "flash": "Airshow2007/airshow-S/index.html"
+          },
+          {
+            "title": "Dave and Patricia",
+            "html": "Dave/party-H/index.html"
+          },
+          {
+            "title": "Christmas in Lake Tahoe",
+            "albumpage": "yes",
+            "html": "Tahoe2007/index.html"
+          }
+        ]
+      },
+      {
+        "year": "2008",
+        "id": "eight",
+        "album": [
+          {
+            "title": "Vancouver / Seattle",
+            "html": "Seattle2007/Seattle-H/index.html",
+            "flash": "Seattle2007/Seattle-S/index.html"
+          },
+          {
+            "title": "Santa Barbara",
+            "html": "SB2008/SB-H/index.html",
+            "flash": "SB2008/SB-S/index.html"
+          },
+          {
+            "title": "Golden Gate Park with Mia",
+            "html": "GoldenGate/Park-H/index.html",
+            "flash": "GoldenGate/Park-S/index.html"
+          },
+          {
+            "title": "Monterey / Big Sur",
+            "html": "Monterey08/Monterey-H/index.html",
+            "flash": "Monterey08/Monterey-S/index.html"
+          },
+          {
+            "title": "San Francisco 49ers",
+            "albumpage": "yes",
+            "html": "niners08/index.html"
+          },
+          {
+            "title": "Hawaii (Kona)",
+            "html": "hawaii08/island-H/index.html",
+            "flash": "hawaii08/island-S/index.html"
+          },
+          {
+            "title": "Cuesta Team Livermore Wine Tasting",
+            "html": "Tennis08/wine-H/index.html",
+            "flash": "Tennis08/wine-S/index.html"
+          },
+          {
+            "title": "Mia's 1st Birthday",
+            "html": "Mia08/bday-H/index.html",
+            "flash": "Mia08/bday-S/index.html"
+          },
+          {
+            "title": "Jen and Un's Wedding",
+            "thumbnail": "JenandUn/Jen.JPG",
+            "html": "JenandUn/Wedding-H/index.html",
+            "flash" : "JenandUn/Wedding-S/index.html"
+          },
+          {
+            "title": "Grand Canyon",
+            "html": "grandcanyon/az-H/index.html",
+            "flash": "grandcanyon/az-S/index.html"
+          },
+          {
+            "title": "Laetitia Winery",
+            "html": "Laetitia08/wine-H/index.html",
+            "flash": "Laetitia08/wine-S/index.html"
+          }
+        ]
+      },
+      {
+        "year": "2009",
+        "id": "nine",
+        "album": [
+          {
+            "title": "Costa Rica / Nicaragua",
+            "html": "CostaRica_Nicaragua09/CRN-H/index.html",
+            "flash": "CostaRica_Nicaragua09/CRN-S/index.html"
+          },
+          {
+            "title": "Chinese New Year",
+            "html": "CNY09/CNY-H/index.html",
+            "flash": "CNY09/CNY-S/index.html"
+          },
+          {
+            "title": "Santa Barbara",
+            "html": "SB2009/SB-H/index.html",
+            "flash": "SB2009/SB-S/index.html"
+          },
+          {
+            "title": "San Francisco Aquarium",
+            "html": "SFAquarium/Aquarium-H/index.html",
+            "flash": "SFAquarium/Aquarium-S/index.html"
+          },
+          {
+            "title": "Alaska Cruise",
+            "albumpage": "yes",
+            "authentication": "no",
+            "html": "Alaska09/index.html"
+          },
+          {
+            "title": "Baby Cassyeary",
+            "html": "Cassyeary/baby-H/index.html",
+            "flash": "Cassyeary/baby-S/index.html"
+          },
+          {
+            "title": "Lake Tahoe",
+            "html": "Tahoe09/hiking-H/index.html",
+            "flash": "Tahoe09/hiking-S/index.html"
+          },
+          {
+            "title": "Hawaii",
+            "thumbnail": "Hawaii09/sb-H/content/bin/images/thumb/IMG_131.jpg",
+            "html": "Hawaii09/sb-H/index.html",
+            "flash" : "Hwaii09/sb-S/index.html"
+          },
+          {
+            "title": "Christmas",
+            "html": "Xmas09/xmas-H/index.html",
+            "flash": "Xmas09/xmas-S/index.html"
+          }
+        ]
+      },
+      {
+        "year": "2010",
+        "id": "ten",
+        "album": [
+          {
+            "title": "Mexican Riviera",
+            "thumbnail" : "Mexico10/Cruise-H/content/bin/images/thumb/IMG_177.jpg",
+            "html": "Mexico10/Cruise-H/index.html",
+            "flash" : "Mexico10/Cruise-S/index.html"
+          },
+          {
+            "title": "Baby Cassyeary",
+            "html": "Baby10/Cassyeary-H",
+            "flash": "Baby10/Cassyeary-S"
+          },
+          {
+            "title": "Janice and Henry's Wedding",
+            "albumpage": "yes",
+            "authentication": "no",
+            "html": "JaniceAndHenry/index.html"
+          },
+          {
+            "title": "Christmas in LA",
+            "html": "Xmas2010/la-H/index.html",
+            "flash": "Xmas2010/la-S/index.html"
+          }
+        ]
+      },
+      {
+        "year": "2011",
+        "id" : "eleven",
+        "album": [
+          {
+            "title": "Heather and Tyler's Wedding",
+            "albumpage": "yes",
+            "authentication": "no",
+            "html": "Tyler2011/Wedding-H/index.html"
+          },
+          {
+            "title": "Sammy Solis",
+            "html": "Samuel2011/baby-H/index.html",
+            "flash": "Samuel2011/baby-S/index.html"
+          },
+          {
+            "title": "European Vacation",
+            "authentication": "no",
+            "html": "Europe/vacation-H/index.html",
+            "flash": "Europe/vacation-S/index.html"
+          },
+          {
+            "title": "Sonoma Wine Tasting",
+            "authentication": "no",
+            "html": "Sonoma2011/sb-H/index.html",
+            "flash": "Sonoma2011/sb-S/index.html"
+          },
+          {
+            "title": "Stanford 4.5 Tennis",
+            "albumpage": "yes",
+            "authentication": "no",
+            "html": "Tennis2011/index.html"
+          },
+          {
+            "title": "Nassau, Bahamas",
+            "authentication": "no",
+            "html": "Bahamas2011/Nassau-H/index.html",
+            "flash": "Bahamas2011/Nassau-S/index.html"
+          },
+          {
+            "title": "Paxton's Wedding",
+            "authentication": "no",
+            "html": "PaxtonAndConnie/Wedding-H/index.html",
+            "flash": "PaxtonAndConnie/Wedding-S/index.html"
+          }
+        ]
+      },
+      {
+        "year": "2012",
+        "id": "twelve",
+        "album": [
+          {
+            "title": "Amy and Adam's Wedding",
+            "authentication": "no",
+            "html": "AmyAdam2012/wedding-H/index.html",
+            "flash": "AmyAdam2012/wedding-S/index.html"
+          },
+          {
+            "title": "Cassidy and Trystan",
+            "authentication": "no",
+            "html": "CassAndTrystan2012/photoshoot-H/index.html",
+            "flash": "CassAndTrystan2012/photoshoot-S/index.html"
+          },
+          {
+            "title": "Trystan's Red Egg and Cass's B-day",
+            "authentication": "no",
+            "html": "TrystanRedEgg2012/party-H/index.html",
+            "flash": "TrystanRedEgg2012/party-S/index.html"
+          },
+          {
+            "title": "Sammy's 1st B-Day",
+            "authentication": "no",
+            "html": "Sammy2012/bday-H/index.html",
+            "flash": "Sammy2012/bday-S/index.html"
+          },
+          {
+            "title": "Barbara and Dan's Wedding",
+            "authentication": "no",
+            "html": "BarbaraAndDan2012/Wedding-H/index.html",
+            "flash": "BarbaraAndDan2012/Wedding-S/index.html"
+          },
+          {
+            "title": "Lorraine and Tim's Wedding",
+            "authentication": "no",
+            "html": "LorraineAndTim2012/wedding-H/index.html",
+            "flash": "LorraineAndTim2012/wedding-S/index.html"
+          }
+        ]
+      },
+      {
+          "year": "2013",
+          "id" : "thirteen",
+          "album" : [
+              {
+                  "title" : "Yvonne's Bridal Shower",
+                  "html" : "YvonneBridal/shower-H/index.html",
+                  "flash" : "YvonneBridal/shower-S/index.html"
+              }
+          ]
+      },
+      {
+        "year": "2015",
+        "id": "fifteen",
+        "album": [
+          {
+            "title": "Jan's Baby Shower",
+            "authentication": "no",
+            "html": "JanShower2015/pics-H/index.html"
+          },
+          {
+            "title": "Arrival of Malia",
+            "html": "Malia2015/index.html"
+          },
+          {
+              "title": "Yvonne's Baby Shower",
+              "html" : "YvonneBabyShower2015/index.html"
+          }
+        ]
+      }
+    ]
+  }
+}
