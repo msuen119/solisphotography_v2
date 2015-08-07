@@ -52,10 +52,11 @@ body {
     cursor: default;
 }
 .thumbnail {
-    background-color: #000000;
+    background-color: #222222;
     border: none;
     text-align: center;
     height: 200px;
+    padding-top: 15px;
 }
 .thumbnail .caption {
     color: #FFFFFF;

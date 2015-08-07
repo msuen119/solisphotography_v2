@@ -70,7 +70,7 @@ function renderPane(data, id) {
             for( var a=0; a<year.album.length; a++ ) {
                 var album = year.album[a];
                 if( album.thumbnail != null ) {
-                    var imgUrl = window.location.origin + window.location.pathname + "/../" + album.thumbnail;
+                    var imgUrl = window.location.origin + window.location.pathname + "/../gallery/" + album.thumbnail;
                     console.log(imgUrl);
                     generateHTML(album, imgUrl, id);
                 }
@@ -117,11 +117,11 @@ function generateHTML(album, imgUrl, id) {
         "    <a href='"+album.html+"'><img src="+imgUrl+"></a> " +
         "    <div class='caption'> " +
         "      <h5>"+album.title+"</h5>" +
-        "      <p><a href='"+album.html+"' class='btn btn-primary' role='button'>HTML</a> ";
+        "      <p><a href='gallery/"+album.html+"' class='btn btn-primary' role='button'>HTML</a> ";
 
     if( album.flash != null ) {
         html +=
-        "      <a href='"+album.flash+"' class='btn btn-default' role='button'>FLASH</a></p>";
+        "      <a href='gallery/"+album.flash+"' class='btn btn-default' role='button'>FLASH</a></p>";
     }
 
     html +=
